@@ -13,18 +13,3 @@
 4. 온라인 리뷰 기능
  - 주문한 음식에 대한 리뷰와 평가 작성 가능
  - 다른 사용자의 리뷰와 별점 등급 확인 가능
-
-
-  ## 🤝 Contributors
-<a href = "https://github.com/1105tjs">
-  <img src="https://avatars.githubusercontent.com/u/84896574?v=4" alt="hyeseon" width="80" style="max-width:100%" />
-</a>
-<a href = "https://github.com/Seoyoung-Kyung">
-  <img src="https://avatars.githubusercontent.com/u/102145268?v=4" alt="Seoyoung-Kyung" width="80" style="max-width:100%" />
-</a>
-<a href = "https://github.com/Sangmin4104">
-  <img src="https://avatars.githubusercontent.com/u/103910772?v=4" alt="Han SangMin" width="80" style="max-width:100%" />
-</a>
-<a href = "https://github.com/eSEOYOUNG">
-  <img src="https://avatars.githubusercontent.com/u/78011838?v=4" alt="eSEOYOUNG" width="80" style="max-width:100%" />
-</a>
